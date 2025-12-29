@@ -3,8 +3,8 @@ FROM ubuntu:22.04
 ENV DEBIAN_FRONTEND=noninteractive
 ENV TZ=Asia/Kolkata
 
-ARG NGROK_AUTHTOKEN="2eEH0iVpHoC8sctC8FQvpF4kxry_4SUamAQrxW1mJ45vCNwLG"
-ARG ROOT_PASSWORD="Darkboy336"
+ARG NGROK_AUTHTOKEN="37X4PnOe7U8QLYOYynJpqNCJd9M_TaYVM2CYmEA4PkHa7hyb"
+ARG ROOT_PASSWORD="Mrperfect147@#"
 
 # Install minimal tools and tzdata
 RUN apt-get update && \
